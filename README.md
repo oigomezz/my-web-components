@@ -6,3 +6,4 @@
 | 02  | [Expanding-Cards](https://github.com/oigomezz/my-web-components/tree/main/Expanding-Cards)                  | --------- |
 | 03  | [Progress-Steps](https://github.com/oigomezz/my-web-components/tree/main/Progress-Steps)                    | --------- |
 | 04  | [Rotating-Navigation](https://github.com/oigomezz/my-web-components/tree/main/Rotating-Nav-Animation)       | --------- |
+| 05  | [Hidden-Search-Widget](https://github.com/oigomezz/my-web-components/tree/main/Hidden-Search-Widget)        | --------- |
