@@ -11,3 +11,4 @@
 | 07  | [Scroll-Animation](https://github.com/oigomezz/my-web-components/tree/main/Scroll-Animation)                | Demo      |
 | 08  | [Split-Landing-Page](https://github.com/oigomezz/my-web-components/tree/main/Split-Landing-Page)            | Demo      |
 | 09  | [Form-Wave-Input](https://github.com/oigomezz/my-web-components/tree/main/Form-Wave-Input)                  | Demo      |
+| 10  | [Sound-Board](https://github.com/oigomezz/my-web-components/tree/main/Sound-Board)                          | Demo      |
