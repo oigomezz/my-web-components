@@ -13,3 +13,4 @@
 | 09  | [Form-Wave-Input](https://github.com/oigomezz/my-web-components/tree/main/Form-Wave-Input)                  | Demo      |
 | 10  | [Sound-Board](https://github.com/oigomezz/my-web-components/tree/main/Sound-Board)                          | Demo      |
 | 11  | [Bad-Jokes](https://github.com/oigomezz/my-web-components/tree/main/Bad-Jokes)                              | Demo      |
+| 12  | [Event-Keycodes](https://github.com/oigomezz/my-web-components/tree/main/Event-Keycodes)                    | Demo      |
