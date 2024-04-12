@@ -19,3 +19,4 @@
 | 15  | [Incrementing-Counter](https://github.com/oigomezz/my-web-components/tree/main/Incrementing-Counter)        | Demo      |
 | 16  | [Drink-Water](https://github.com/oigomezz/my-web-components/tree/main/Drink-Water)                          | Demo      |
 | 17  | [Movie-App](https://github.com/oigomezz/my-web-components/tree/main/Movie-App)                              | Demo      |
+| 18  | [Background-Slider](https://github.com/oigomezz/my-web-components/tree/main/Background-Slider)              | Demo      |
