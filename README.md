@@ -29,3 +29,4 @@
 | 25  | [Sticky-Navbar](https://github.com/oigomezz/my-web-components/tree/main/Sticky-Navbar)                      | Demo      |
 | 26  | [Double-Vertical-Slider](https://github.com/oigomezz/my-web-components/tree/main/Double-Vertical-Slider)    | Demo      |
 | 27  | [Toast-Notification](https://github.com/oigomezz/my-web-components/tree/main/Toast-Notification)            | Demo      |
+| 28  | [Github-Profiles](https://github.com/oigomezz/my-web-components/tree/main/Github-Profiles)                  | Demo      |
