@@ -26,3 +26,4 @@
 | 22  | [Drawing-App](https://github.com/oigomezz/my-web-components/tree/main/Drawing-App)                          | Demo      |
 | 23  | [Kinetic-Loader](https://github.com/oigomezz/my-web-components/tree/main/Kinetic-Loader)                    | Demo      |
 | 24  | [Content-Placeholder](https://github.com/oigomezz/my-web-components/tree/main/Content-Placeholder)          | Demo      |
+| 25  | [Sticky-Navbar](https://github.com/oigomezz/my-web-components/tree/main/Sticky-Navbar)                      | Demo      |
