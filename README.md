@@ -28,3 +28,4 @@
 | 24  | [Content-Placeholder](https://github.com/oigomezz/my-web-components/tree/main/Content-Placeholder)          | Demo      |
 | 25  | [Sticky-Navbar](https://github.com/oigomezz/my-web-components/tree/main/Sticky-Navbar)                      | Demo      |
 | 26  | [Double-Vertical-Slider](https://github.com/oigomezz/my-web-components/tree/main/Double-Vertical-Slider)    | Demo      |
+| 27  | [Toast-Notification](https://github.com/oigomezz/my-web-components/tree/main/Toast-Notification)            | Demo      |
