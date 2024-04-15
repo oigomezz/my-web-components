@@ -25,3 +25,4 @@
 | 21  | [Drag-N-Drop](https://github.com/oigomezz/my-web-components/tree/main/Drag-N-Drop)                          | Demo      |
 | 22  | [Drawing-App](https://github.com/oigomezz/my-web-components/tree/main/Drawing-App)                          | Demo      |
 | 23  | [Kinetic-Loader](https://github.com/oigomezz/my-web-components/tree/main/Kinetic-Loader)                    | Demo      |
+| 24  | [Content-Placeholder](https://github.com/oigomezz/my-web-components/tree/main/Content-Placeholder)          | Demo      |
