@@ -30,3 +30,4 @@
 | 26  | [Double-Vertical-Slider](https://github.com/oigomezz/my-web-components/tree/main/Double-Vertical-Slider)    | Demo      |
 | 27  | [Toast-Notification](https://github.com/oigomezz/my-web-components/tree/main/Toast-Notification)            | Demo      |
 | 28  | [Github-Profiles](https://github.com/oigomezz/my-web-components/tree/main/Github-Profiles)                  | Demo      |
+| 29  | [Double-Click-Heart](https://github.com/oigomezz/my-web-components/tree/main/Double-Click-Heart)            | Demo      |
