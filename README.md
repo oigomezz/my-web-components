@@ -38,3 +38,4 @@
 | 34  | [Animated-Countdown](https://github.com/oigomezz/my-web-components/tree/main/Animated-Countdown)                 | Demo      |
 | 35  | [Image-Carousel](https://github.com/oigomezz/my-web-components/tree/main/Image-Carousel)                         | Demo      |
 | 36  | [Hoverboard](https://github.com/oigomezz/my-web-components/tree/main/Hoverboard)                                 | Demo      |
+| 37  | [Pokedex](https://github.com/oigomezz/my-web-components/tree/main/Pokedex)                                       | Demo      |
