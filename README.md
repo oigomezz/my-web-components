@@ -34,3 +34,4 @@
 | 30  | [Auto-Text-Effect](https://github.com/oigomezz/my-web-components/tree/main/Auto-Text-Effect)                     | Demo      |
 | 31  | [Password-Generator](https://github.com/oigomezz/my-web-components/tree/main/Password-Generator)                 | Demo      |
 | 32  | [Good-Cheap-Fast-Checkboxes](https://github.com/oigomezz/my-web-components/tree/main/Good-Cheap-Fast-Checkboxes) | Demo      |
+| 33  | [Notes-App](https://github.com/oigomezz/my-web-components/tree/main/Notes-App)                                   | Demo      |
