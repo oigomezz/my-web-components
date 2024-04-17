@@ -42,3 +42,4 @@
 | 38  | [Mobile-Tab-Navigation](https://github.com/oigomezz/my-web-components/tree/main/Mobile-Tab-Navigation)               | Demo      |
 | 39  | [Password-Strength-Background](https://github.com/oigomezz/my-web-components/tree/main/Password-Strength-Background) | Demo      |
 | 40  | [3D-Boxes-Background](https://github.com/oigomezz/my-web-components/tree/main/3D-Boxes-Background)                   | Demo      |
+| 41  | [Verify-Account-UI](https://github.com/oigomezz/my-web-components/tree/main/Verify-Account-UI)                       | Demo      |
