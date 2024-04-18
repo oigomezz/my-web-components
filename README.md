@@ -47,3 +47,4 @@
 | 43  | [Feedback-UI-Design](https://github.com/oigomezz/my-web-components/tree/main/Feedback-UI-Design)                     | Demo      |
 | 44  | [Custom-Range-Slider](https://github.com/oigomezz/my-web-components/tree/main/Custom-Range-Slider)                   | Demo      |
 | 45  | [Netflix-Mobile-Navigation](https://github.com/oigomezz/my-web-components/tree/main/Netflix-Mobile-Navigation)       | Demo      |
+| 46  | [Quiz-App](https://github.com/oigomezz/my-web-components/tree/main/Quiz-App)                                         | Demo      |
