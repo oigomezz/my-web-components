@@ -48,3 +48,4 @@
 | 44  | [Custom-Range-Slider](https://github.com/oigomezz/my-web-components/tree/main/Custom-Range-Slider)                   | Demo      |
 | 45  | [Netflix-Mobile-Navigation](https://github.com/oigomezz/my-web-components/tree/main/Netflix-Mobile-Navigation)       | Demo      |
 | 46  | [Quiz-App](https://github.com/oigomezz/my-web-components/tree/main/Quiz-App)                                         | Demo      |
+| 47  | [Testimonial-Box-Switcher](https://github.com/oigomezz/my-web-components/tree/main/Testimonial-Box-Switcher)         | Demo      |
