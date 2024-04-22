@@ -53,3 +53,4 @@
 | 49  | [Todo-List](https://github.com/oigomezz/my-web-components/tree/main/Todo-List)                                       | Demo      |
 | 50  | [Insect-Catch-Game](https://github.com/oigomezz/my-web-components/tree/main/Insect-Catch-Game)                       | Demo      |
 | 51  | [Simple-Timer](https://github.com/oigomezz/my-web-components/tree/main/Simple-Timer)                                 | Demo      |
+| 52  | [Accordion](https://github.com/oigomezz/my-web-components/tree/main/Accordion)                                       | Demo      |
