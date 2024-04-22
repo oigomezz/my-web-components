@@ -2,7 +2,7 @@
 
 |  #  | Project                                                                                                              | Live Demo |
 | :-: | -------------------------------------------------------------------------------------------------------------------- | --------- |
-| 01  | [CSS-only checkbox using mask](https://github.com/oigomezz/my-web-components/tree/main/Checkbox-Using-Mask)          | Demo      |
+| 01  | [CSS-only-Checkbox-Using-Mask](https://github.com/oigomezz/my-web-components/tree/main/Checkbox-Using-Mask)          | Demo      |
 | 02  | [Expanding-Cards](https://github.com/oigomezz/my-web-components/tree/main/Expanding-Cards)                           | Demo      |
 | 03  | [Progress-Steps](https://github.com/oigomezz/my-web-components/tree/main/Progress-Steps)                             | Demo      |
 | 04  | [Rotating-Navigation](https://github.com/oigomezz/my-web-components/tree/main/Rotating-Nav-Animation)                | Demo      |
